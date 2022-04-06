@@ -1,0 +1,11 @@
+https://unix.stackexchange.com/questions/52814/flattening-a-nested-directory?newreg=0d8c508692b049d5b83262120d431f2d
+recover data from the swiss cheese structure of my external hard drive after running that duplicate removal script a few years back
+One or more of Supporting Materials tables 2, 3, 5, 6 probably have the calibration data I want
+
+Data loading
+https://towardsdatascience.com/7-ways-to-load-external-data-into-google-colab-7ba73e7d5fc7
+https://colab.research.google.com/notebooks/io.ipynb#scrollTo=eikfzi8ZT_rW
+
+pagiesti@gmail.com Colab notebooks
+https://colab.research.google.com/drive/106tJi7bHIgfXApuEJqDpvNZHwnJIm806
+https://colab.research.google.com/drive/1jcKSVVMkFiaQk9kLsSra31VypHHBVvR7
